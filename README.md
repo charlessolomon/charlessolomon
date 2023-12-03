@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlessolomon
 - 👀 I’m interested in ... python 
-- 🌱 I’m currently learning ...PHP and sql
+- 🌱 I work with php and sql
 - 💞️ I’m looking to collaborate on ... projects 
 - 📫 How to reach me ... klassiq16@gmail.com
 
